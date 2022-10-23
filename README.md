@@ -1,6 +1,6 @@
 # Tic-Tac-Toe on JavaScript
 
-<h2><a href="https://ogshadoww.github.io/Project-Quiz-app/">View demo-version</a></h2>
+<h2><a href="https://ogshadoww.github.io/Project-Tic-Tac-Toe/">View demo-version</a></h2>
 
 ----
 
